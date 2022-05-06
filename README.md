@@ -1,1 +1,2 @@
-# algerian-street-food
+#nqi-&-bnin
+Nqi & Bnin,is a website showcasing some of the best algerian street food in a very simple way,using just html/css (no Javascript),inspired by based.cooking (by Luke Smith),it is my attempt on The Odin Project recipe project.
