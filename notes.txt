@@ -1,0 +1,7 @@
+algerian street food
+simple recipe website,using  only html & css, something like based.cooking 
+the starting recipes:
+Garantita,Frite Omelette: Or French Fries Omelette:e,Pizza Carré (Squared Pizza),Mhajeb,
+Bourek,Zlabiya
+Harissa,Mint Tea,chirbat
+give it a name and a logo.
